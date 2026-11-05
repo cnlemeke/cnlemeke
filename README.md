@@ -1,39 +1,34 @@
-# **Hi there\! I am Chigozie Nlemeke**
+# Hi there! I'm Chigozie Nlemeke 🚀
 
-Data professional based in the United Kingdom. I build data models that help businesses see and manage risk before it costs them.
+Data professional based in the United Kingdom. I build data models that help businesses see, quantify, and manage risk before it impacts them.
 
-## **Research Interest**
+Currently preparing for doctoral research at the intersection of AI, corporate finance, and risk management.
 
-- Artificial Intelligence  
-- Cyber Risk for SMEs  
-- AI in business and finance
+---
 
-## **Background**
+## 🔬 Research Interests
+* **Artificial Intelligence:** Applying machine learning models to predictive risk frameworks.
+* **Cyber Risk for SMEs:** Quantifying vulnerability metrics and financial impacts for small-to-medium enterprises.
+* **AI in Business & Finance:** Algorithmic decision-making and risk modelling in corporate banking.
 
-- MSc Applied Data Science, University of Sunderland.  
-- BSc Economics, University of Nigeria Nsukka.  
-- Data Analyst  
-- SME Banking Analytics   
-- PhD Candidate
+## 🎓 Academic & Professional Background
+* **Prospective PhD Applicant** | Actively targeting opportunities in AI & Risk Dynamics.
+* **MSc in Applied Data Science** | University of Sunderland, UK.
+* **BSc in Economics** | University of Nigeria Nsukka.
+* **Industry Experience:** Data Analyst specialising in SME Banking Analytics, financial risk modeling and predictive analytics. 
 
-## **Skills**
+---
 
-*Programming*: Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, TensorFlow/Keras)
+## 🛠 Technical Proficiencies 
 
-*Databases*: MySQL/PostgreSQL
+* **Data Science & ML:** Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, TensorFlow/Keras).
+* **Data Engineering & BI:** MySQL, PostgreSQL, Google BigQuery, Power BI, Tableau, Advanced Excel.
+* **Research Methodologies:** Mixed-Method Research, Data Science Research (DSR), Quantitative & Qualitative Analysis, SPSS.
+* **Developer Tools & Workflow:** Git, Jupyter, VS Code, Google Colab, Scrum/Jira.
 
-*Business Intelligence*: Power BI, Advanced Excel, BigQuery, Tableau, SPSS
+---
 
-*Research*: Mixed-Method Research, Data Science Research (DSR), Academic Writing, Quantitative and Qualitative Analysis, Critical Thinking
-
-*IDEs*: Jupyter, Visual Studio Code, Google Colab
-
-*Project Management*: Gantt, SCRUM, Jira, Trello
-
-*Version Control*: Git
-
-## **Contact**
-
-- LinkedIn: [Chigozie Nlemeke](https://www.linkedin.com/in/chigozie-nlemeke-48120669/)  
-- Email: [nlemekechigozie@gmail.com](mailto:nlemekechigozie@gmail.com)  
-- Twitter: [Chigozie Nlemeke](https://x.com/cnlemeke07)
+## 📬 Connect With Me
+* **LinkedIn:** [Chigozie Nlemeke](https://linkedin.com)
+* **Email:** [nlemekechigozie@gmail.com](mailto:nlemekechigozie@gmail.com)
+* **X (Twitter):** [@cnlemeke07](https://x.com)
